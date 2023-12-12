@@ -1,3 +1,5 @@
+# Mocap Joint Angles
+
 Extract hip and knee angles from motion capture data uisng the reference position as a calibration method. This method uses technical marker frames that are linked to the reference position, which is recorded during a static trial. Alternatively, a reference position can be obtained from dynamic trial data if such position is identified and thata from that instance is extracted. The reference position needs to be aligned with the global coordinate frame as these represent the body axes in the anatomical position.
 
 
